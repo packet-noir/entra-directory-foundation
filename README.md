@@ -16,7 +16,7 @@ Entra ID and they have hired me to set the directory up properly the first time.
 
 ## What I Built
 
-I created 16 identities and 6 security groups in Entra ID to represent 16 humans that Northwind trusts.
+I created 16 identities and 6 security groups in Entra ID to represent and organize 16 individuals trusted by Northwind.
 
 ## Screenshots
 
