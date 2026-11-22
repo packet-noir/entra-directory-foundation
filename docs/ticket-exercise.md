@@ -28,4 +28,5 @@ Helpdesk administrators can reset passwords ... of non-administrators or [users]
 ```
 #### Initial Reasoning
 I chose not to assign the **User Administrator** role.
+
 Granting permissions to create and manage user accounts and groups seemed excessive.
