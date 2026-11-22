@@ -39,3 +39,4 @@ When designing security groups, it is important to consider trade-offs and impro
 
 Leverage dynamic group memberships (requires Entra ID P1). 
 Create supplementary documentation that governs group creation and assignment processes.
+Export audit logs to retain them beyond the 7-day retention period.
