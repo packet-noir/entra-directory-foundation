@@ -1,5 +1,6 @@
 ## Exercise
 Review six realistic tickets and identify the least privileged built-in role needed to resolve each one.
+
 Compare your answers with Microsoft's: 
 [Least privileged roles by task](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/delegate-by-task)
 
