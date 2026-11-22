@@ -1,0 +1,16 @@
+﻿Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Account enabled (true/false) [accountEnabled],First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation]
+Dana Whitfield,dana.whitfield@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Dana,Whitfield,Owner,EXEC,US
+Marcus Chen,marcus.chen@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Marcus,Chen,IT Manager,IT,US
+Priya Raman,priya.raman@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Priya,Raman,Systems Administrator,IT,US
+Tomas Reyes,tomas.reyes@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Tomas,Reyes,Help Desk Technician,IT,US
+Elena Novak,elena.novak@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Elena,Novak,Finance Manager,FIN,US
+Jamal Brooks,jamal.brooks@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Jamal,Brooks,Payroll Specialist,FIN,US
+Sofia Lindquist,sofia.lindquist@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Sofia,Lindquist,Invoicing Specialist,FIN,US
+Ryan Okafor,ryan.okafor@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Ryan,Okafor,Sales Manager,SALES,US
+Hannah Park,hannah.park@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Hannah,Park,Account Executive,SALES,US
+Luis Ortega,luis.ortega@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Luis,Ortega,Account Executive,SALES,US
+Megan Doyle,megan.doyle@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Megan,Doyle,Sales Development Representative,SALES,US
+Aaliyah Grant,aaliyah.grant@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Aaliyah,Grant,HR Manager,HR,US
+Ben Kowalski,ben.kowalski@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Ben,Kowalski,HR Coordinator,HR,US
+Victor Alvarez,victor.alvarez@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Victor,Alvarez,Contract Marketing Consultant,CTR,US
+Nia Thompson,nia.thompson@correchellearnsproton.onmicrosoft.com,REDACTED,TRUE,Nia,Thompson,Contract IT Project Consultant,CTR,US
