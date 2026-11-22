@@ -1,3 +1,8 @@
+## Exercise
+Review six realistic tickets and identify the least privileged built-in role needed to resolve each one.
+Compare your answers with Microsoft's: 
+[Least privileged roles by task](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/delegate-by-task)
+
 1. Reset the password for a salesperson who is locked out: **Password Administrator**
 2. Create an account for a new hire starting Monday: **User Administrator**
 3. Create a new security group for the Finance team: **Groups Administrator**
