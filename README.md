@@ -20,7 +20,7 @@ I created 16 identities and 6 security groups in Entra ID to represent 16 humans
 
 ## Screenshots
 
-![Entra ID audit logs](northwind-services-project-case/screenshots/groupandusermgmt_auditlogs.png)
+![Entra ID audit logs](screenshots/groupandusermgmt_auditlogs.png)
 
 
 ## Security Lessons Learned
