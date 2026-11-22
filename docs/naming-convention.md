@@ -13,4 +13,4 @@ UPN value will be named after the user's first and last name, with a period sepa
 ### Example
 - first.lastname@domain.com
 
-Users with similar names may have a number appended to their UPN. 
+Users with similar names may have a number appended to their last name. 
