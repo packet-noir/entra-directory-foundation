@@ -28,4 +28,4 @@ When designing security groups, it is important to consider trade-offs and impro
 
 ## Future Improvements
 
-Create supplementary governance documents that manage the group creation process. 
+Create supplementary documentation that governs the group creation process. 
