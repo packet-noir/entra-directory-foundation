@@ -37,4 +37,5 @@ When designing security groups, it is important to consider trade-offs and impro
 
 ## Future Improvements
 
+Leverage dynamic group memberships (requires Entra ID P1). 
 Create supplementary documentation that governs group creation and assignment processes.
