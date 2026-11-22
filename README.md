@@ -19,7 +19,9 @@ Entra ID and they have hired me to set the directory up properly the first time.
 I created 16 identities and 6 security groups in Entra ID to represent and organize 16 individuals trusted by Northwind.
 
 ## Screenshots
-
+### Users
+![Northwind users listed in Entra ID](screenshots/northwind_users@2x.png)
+### Audit Logs
 ![Entra ID audit logs](screenshots/groupandusermgmt_auditlogs.png)
 
 
