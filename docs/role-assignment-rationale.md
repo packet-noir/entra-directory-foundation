@@ -21,3 +21,8 @@ Obtain an Entra P1 subscription to assign roles to groups.
 ## Privileged Label Role Count
 
 5 (MSFT recommends < 10)
+
+# Permission Boundary
+
+The following screenshot demonstrates Tomas Reyes'inability to create a user given the Password Administrator role.
+[!Unable to Create User](screenshots/permission_boundary_for_helpdeskadmin@2x.png)
